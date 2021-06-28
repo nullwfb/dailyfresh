@@ -17,7 +17,7 @@
 
 做了商家后台，有多个商家（商家管理系统，自己写了上货、管理商品、订单管理、视频管理、商家直播、平台分账系统）
 
-http://wuyouxiu.top/business/sjht
+http://wuyouxiu.top/business/sj
 
 
 
